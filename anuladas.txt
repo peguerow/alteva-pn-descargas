@@ -1,0 +1,3 @@
+ALTEVA-PN-ANULADAS
+# Escribe debajo un código de equipo por línea para anular esa licencia.
+# Para quitar la anulación, borra la línea.
